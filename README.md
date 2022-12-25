@@ -3,7 +3,7 @@
 
 I recently completed the *full-stack web development bootcamp* at Le Wagon in Berlin. I am thrilled to be on this new career journey and take a deep dive into the tech world! 
 
-- 🔭 I’m currently working on [Find My Midwife](http://www.findmymidwife.de/)
+- 💻 I’m currently working on [Find My Midwife](http://www.findmymidwife.de/)
 
 - 🌱 I’m currently learning **React, Ruby on Rails, Javascript**
 
