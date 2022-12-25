@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alicia Stromback</h1>
+<h1 align="center">Hi 👋, I'm Alicia Strömbäck</h1>
 <h3 align="center">A passionate fullstack developer from Sweden</h3>
 
 I recently completed a *full-stack web development bootcamp* at Le Wagon in Berlin. I am thrilled to be on this new career journey and take a deep dive into the tech world! 
