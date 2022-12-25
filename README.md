@@ -13,9 +13,6 @@ I recently completed a *full-stack web development bootcamp* at Le Wagon in Berl
   <a href="https://github.com/Aliciastromback?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/Aliciastromback?color=yellow&logo=github">
   </a>
-  <a href="https://www.linkedin.com/in/Aliciastromback">
-    <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-1.9K-blue?color=blue&logo=linkedin">
-  </a>
 </p>
 
 - 🔭 I’m currently working on [Find My Midwife](http://www.findmymidwife.de/)
