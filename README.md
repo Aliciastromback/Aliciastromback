@@ -9,7 +9,7 @@ I recently completed a *full-stack web development bootcamp* at Le Wagon in Berl
 
 - 📫 How to reach me: **aliciastromback@gmail.com**
 
-## 😂 Here is a random joke that'll make you laugh!
+## Have a little laugh here! 😉
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <p align="left">
