@@ -3,6 +3,21 @@
 
 I recently completed a *full-stack web development bootcamp* at Le Wagon in Berlin. I am thrilled to be on this new career journey and take a deep dive into the tech world! 
 
+<p align="left">
+  <a href="https://github.com/Aliciastromback/Aliciastromback">
+    <img src="https://komarev.com/ghpvc/?username=Aliciastromback&color=red" alt="profile views" />
+  </a>
+  <a href="https://github.com/Aliciastromback/Aliciastromback">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=page.id" alt="page views" />
+  </a>
+  <a href="https://github.com/Aliciastromback?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Aliciastromback?color=yellow&logo=github">
+  </a>
+  <a href="https://www.linkedin.com/in/Aliciastromback">
+    <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-1.9K-blue?color=blue&logo=linkedin">
+  </a>
+</p>
+
 - 🔭 I’m currently working on [Find My Midwife](http://www.findmymidwife.de/)
 
 - 🌱 I’m currently learning **React, Ruby on Rails, Javascript**
