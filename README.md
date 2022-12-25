@@ -3,6 +3,15 @@
 
 I recently completed a *full-stack web development bootcamp* at Le Wagon in Berlin. I am thrilled to be on this new career journey and take a deep dive into the tech world! 
 
+- 🔭 I’m currently working on [Find My Midwife](http://www.findmymidwife.de/)
+
+- 🌱 I’m currently learning **React, Ruby on Rails, Javascript**
+
+- 📫 How to reach me: **aliciastromback@gmail.com**
+
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 <p align="left">
   <a href="https://github.com/Aliciastromback/Aliciastromback">
     <img src="https://komarev.com/ghpvc/?username=Aliciastromback&color=red" alt="profile views" />
@@ -11,12 +20,6 @@ I recently completed a *full-stack web development bootcamp* at Le Wagon in Berl
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/Aliciastromback?color=yellow&logo=github">
   </a>
 </p>
-
-- 🔭 I’m currently working on [Find My Midwife](http://www.findmymidwife.de/)
-
-- 🌱 I’m currently learning **React, Ruby on Rails, Javascript**
-
-- 📫 How to reach me: **aliciastromback@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
