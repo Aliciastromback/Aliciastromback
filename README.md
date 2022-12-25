@@ -7,7 +7,7 @@ I recently completed a full-stack web development bootcamp at Le Wagon in Berlin
 
 - 🌱 I’m currently learning **React, Ruby on Rails, Javascript**
 
-- 📫 How to reach me **aliciastromback@gmail.com**
+- 📫 Feel free to reach out to me at **aliciastromback@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
