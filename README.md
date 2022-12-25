@@ -7,9 +7,6 @@ I recently completed a *full-stack web development bootcamp* at Le Wagon in Berl
   <a href="https://github.com/Aliciastromback/Aliciastromback">
     <img src="https://komarev.com/ghpvc/?username=Aliciastromback&color=red" alt="profile views" />
   </a>
-  <a href="https://github.com/Aliciastromback/Aliciastromback">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=page.id" alt="page views" />
-  </a>
   <a href="https://github.com/Aliciastromback?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/Aliciastromback?color=yellow&logo=github">
   </a>
