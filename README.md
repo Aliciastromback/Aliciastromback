@@ -1,12 +1,4 @@
 <h1 align="center">Hi 👋, I'm Alicia Strömbäck</h1>
-<p align="center">
-  <a href="https://github.com/Aliciastromback/Aliciastromback">
-    <img src="https://komarev.com/ghpvc/?username=Aliciastromback&color=red" alt="profile views" />
-  </a>
-  <a href="https://github.com/Aliciastromback?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Aliciastromback?color=yellow&logo=github">
-  </a>
-</p>
 <h3 align="center">A passionate fullstack developer from Sweden</h3>
 
 I recently completed the *full-stack web development bootcamp* at Le Wagon in Berlin. I am thrilled to be on this new career journey and take a deep dive into the tech world! 
